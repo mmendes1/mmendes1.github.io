@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300&display=swap');
 
 body {
-    background-color:bisque;
+    background-color:rgba(14, 13, 13, 0.582);
 }
 
 h1 {
@@ -13,13 +13,13 @@ h2 {
 }
 
 .topnav {
-   background-color:rgb(54, 52, 52);
+   background-color:rgba(126, 126, 126, 0.589);
    overflow: hidden;
 }
 
 .topnav a{
    float:left;
-   color:darkseagreen;
+   color:rgb(183, 143, 188);
    text-align: center;
    padding: 14px 16px;
    font-size: 17px;
@@ -27,10 +27,10 @@ h2 {
 
 .topnav a:hover {
     background-color: #ddd;
-    color: seagreen;
+    color: rgb(123, 46, 139);
 }
 
 .topna a:active {
-    background-color: #8bfdd3;
+    background-color: #db9ad3;
     color: white;
 }
