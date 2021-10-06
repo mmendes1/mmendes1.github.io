@@ -23,6 +23,7 @@ th, td {
    padding: 8px;
    text-align: left;
    border-bottom: 1px solid #DDD;
+   color: rgb(157, 57, 177);
 }
 
 tr:hover {background-color: #db9ad3;}
