@@ -14,6 +14,19 @@ h2 {
    color: rgb(157, 57, 177);
 }
 
+table {
+   border-collapse: collapse;
+   width: 100%;
+}
+
+th, td {
+   padding: 8px;
+   text-align: left;
+   border-bottom: 1px solid #DDD;
+}
+
+tr:hover {background-color: #db9ad3;}
+
 img {
    width: 100%;
    height: auto;
