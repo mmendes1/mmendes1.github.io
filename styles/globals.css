@@ -28,6 +28,11 @@ th, td {
 
 tr:hover {background-color: #ddd;}
 
+hr.rounded {
+   border-top: 4px solid #bbb;
+   border-radius: 3px;
+}
+
 img {
    width: 100%;
    height: auto;
