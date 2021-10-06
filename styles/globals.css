@@ -2,7 +2,6 @@
 
 body {
    background-color:rgb(44, 43, 43);
-   background-image: ;
 }
 
 h1 {
@@ -17,7 +16,7 @@ h2 {
 
 img {
    width: 100%;
-   height: 20%;
+   height: auto;
    opacity: 50%;
 }
 
