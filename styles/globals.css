@@ -1,12 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300&display=swap');
 
-#grad_back {
-   width: auto;
-   height: auto;
-   background-color: rgb(44, 43, 43);
-   background-image: linear-gradient(to bottom right, rgb(44, 43, 43), rgb(144, 39, 165));
+body {
+   background-image: linear-gradient(to bottom right, rgb(44, 43, 43), rgb(95, 54, 104));
 }
-
 h1 {
    font-size: 2.25rem;
    color: rgb(157, 57, 177);
