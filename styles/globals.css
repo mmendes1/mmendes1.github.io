@@ -38,20 +38,22 @@ footer {
    color: rgb(157, 57, 177);
 }
 
-background_img {
+.background_img {
    width: 100%;
    height: auto;
    opacity: 50%;
 }
 
-gmail_icon {
+.gmail_icon {
    width: 10%;
    height: 10%;
+   float: left;
 }
 
-linkedin_icon {
+.linkedin_icon {
    width: 10%;
    height: 10%;
+   float: left;
 }
 
 .topnav {
