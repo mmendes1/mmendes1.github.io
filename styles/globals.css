@@ -3,6 +3,7 @@
 body {
    background-image: linear-gradient(to bottom right, rgb(44, 43, 43), rgb(95, 54, 104));
 }
+
 h1 {
    font-size: 2.25rem;
    color: rgb(157, 57, 177);
@@ -37,10 +38,20 @@ footer {
    color: rgb(157, 57, 177);
 }
 
-img {
+background_img {
    width: 100%;
    height: auto;
    opacity: 50%;
+}
+
+gmail_icon {
+   width: 10%;
+   height: 10%;
+}
+
+linkedin_icon {
+   width: 10%;
+   height: 10%;
 }
 
 .topnav {
