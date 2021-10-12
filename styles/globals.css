@@ -58,6 +58,10 @@ footer {
    border-right: .2rem;
 }
 
+.about_text {
+   font-size: 4vw;
+}
+
 .topnav {
    background-color:rgba(71, 69, 69, 0.315);
    overflow: hidden;
