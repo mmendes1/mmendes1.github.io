@@ -1,7 +1,24 @@
-var file = document.getElementById("myFile").files[0];
-    var reader = new FileReader();
-    reader.onload = function(e) {
-        var textArea = document.getElementById("myTextArea");
-        textArea.value = e.target.result;
-    };
-    reader.readAsText(file);
+
+
+
+
+
+
+
+
+
+
+/**$.get('../workoutApp_data/Workout_Data.txt', function(textData, status) {
+    var aLines = textData.split("\n")
+
+    alert(textData + '\nStatus = ' + status);   // this works, all lines
+
+    $.each(aLines, function(n, sLine) {
+       $('#textFromFile').append('<div>' + sLine + '</div>'); // ?????
+       alert(n + ' - ' + aLines[n]);      // this also work
+    });
+    alert("File read OK");
+ }, 'text');
+
+ Source: https://forum.jquery.com/topic/how-to-read-the-text-file-and-show-the-information-on-the-page
+ **/
