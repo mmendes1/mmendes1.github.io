@@ -27,7 +27,7 @@ th, td {
    color: rgb(238, 235, 235);
 }
 
-tr:hover {background-color: #ddd;}
+/*tr:hover {background-color: #ddd;}*/
 
 hr.rounded {
    border-top: 4px solid #bbb;
