@@ -2,6 +2,7 @@
 
 body {
    background-image: linear-gradient(to bottom right, rgb(44, 43, 43), rgb(95, 54, 104));
+   text: rgb(238, 235, 235);
 }
 
 h1 {
