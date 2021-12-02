@@ -44,6 +44,11 @@ footer {
    opacity: 50%;
 }
 
+.mm_timetrial {
+   width: 50%;
+   height: auto;
+}
+
 .gmail_icon {
    width: 3%;
    height: auto;
