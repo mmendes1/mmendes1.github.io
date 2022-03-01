@@ -55,6 +55,7 @@ footer {
 }
 
 .gmail_icon {
+   vertical-align: middle;
    width: 3%;
    height: auto;
    float: left;
@@ -62,6 +63,7 @@ footer {
 }
 
 .linkedin_icon {
+   vertical-align: middle;
    width: 3%;
    height: auto;
    float: left;
