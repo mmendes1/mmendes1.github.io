@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300&display=swap');
 
-body {
+html {
    background-image: linear-gradient(to bottom right, rgb(44, 43, 43), rgb(95, 54, 104));
+}
+
+body {
    text: rgb(238, 235, 235);
 }
 
