@@ -20,18 +20,6 @@ a {
    color: rgb(238, 235, 235);
 }
 
-table {
-   border-collapse: collapse;
-   width: 100%;
-}
-
-th, td {
-   padding: 8px;
-   text-align: left;
-   border-bottom: 1px solid #DDD;
-   color: rgb(238, 235, 235);
-}
-
 /*tr:hover {background-color: #ddd;}*/
 
 hr.rounded {
@@ -89,10 +77,6 @@ footer {
    height: auto;
    float: left;
    border-right: .2rem;
-}
-
-.about_text {
-   font-size: 4vw;
 }
 
 .topnav {
