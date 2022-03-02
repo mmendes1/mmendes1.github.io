@@ -45,8 +45,9 @@ footer {
 }
 
 .background_img {
+   border: rgba(71, 69, 69, 0.315);
    width: 100%;
-   height: auto;
+   height: min-content;
    opacity: 50%;
 }
 
