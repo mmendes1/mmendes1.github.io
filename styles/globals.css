@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300&display=swap');
 
-html {
-   background-image: linear-gradient(to bottom right, rgb(44, 43, 43), rgb(95, 54, 104));
-}
-
 body {
+   background-image: linear-gradient(to bottom right, rgb(44, 43, 43), rgb(95, 54, 104));
    text: rgb(238, 235, 235);
 }
 
@@ -59,7 +56,6 @@ footer {
 }
 
 .gmail_icon {
-   vertical-align: middle;
    width: 3%;
    height: auto;
    float: left;
@@ -67,7 +63,6 @@ footer {
 }
 
 .linkedin_icon {
-   vertical-align: middle;
    width: 3%;
    height: auto;
    float: left;
